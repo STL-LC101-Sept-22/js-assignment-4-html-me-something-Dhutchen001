@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: grey;
+    max-width: 1000px;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 10px
+} 
+section {
+    margin-left: 25px
+}
+article {
+    margin: 10px 10px 40px 10px
+}
+.centered {
+    text-align: center;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green
+}
